@@ -1,0 +1,122 @@
+{
+  "status": {
+    "version": "1.0.0",
+    "code": 0,
+    "msg": "SuccessWithResult",
+    "total": 1,
+    "page": 1,
+    "pagesize": 10,
+    "transactionID": "55adaf4a681293488ae2493b254dce3a"
+  },
+  "echoed_fields": {
+    "jobID": "",
+    "loanNumber": "",
+    "preparedBy": "",
+    "resellerID": "",
+    "preparedFor": ""
+  },
+  "property": [
+    {
+      "identifier": {
+        "Id": 17726403,
+        "fips": "06037",
+        "apn": "5456003004",
+        "attomId": 17726403
+      },
+      "lot": {
+        "depth": 73,
+        "frontage": 40,
+        "lotsize1": 0.0678834,
+        "lotsize2": 2957
+      },
+      "area": { "countrysecsubd": "Los Angeles" },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2314 ARTHUR ST",
+        "line2": "LOS ANGELES, CA 90065",
+        "locality": "LOS ANGELES",
+        "matchCode": "ExaStr",
+        "oneLine": "2314 ARTHUR ST, LOS ANGELES, CA 90065",
+        "postal1": "90065",
+        "postal2": "2710",
+        "postal3": "C025"
+      },
+      "location": {
+        "accuracy": "Rooftop",
+        "latitude": "34.109080",
+        "longitude": "-118.231670",
+        "distance": 0,
+        "geoid": "CO06037, CS0691750, DB0622710, ND0000643979, ND0004780426, PL0644000, SB0000071490, SB0000071537, SB0000131489, SB0000147244, SB0000149010, ZI90065"
+      },
+      "summary": {
+        "absenteeInd": "OWNER OCCUPIED",
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "yearbuilt": 1938,
+        "propLandUse": "SFR",
+        "propIndicator": "10",
+        "legal1": "TRACT # 3579 LOT COM S 40 10'54\" E 65.09 FT FROM MOST N COR OF LOT 138 TH S 40 10'54\" E 47.34 FT TH S 17 29' W 60.21 FT TH NW TO A PT S 17 29' W 86.54 FT FROM BEG TH N 17 29' E TO BEG PART OF LOT 138"
+      },
+      "utilities": {},
+      "building": {
+        "size": {
+          "bldgsize": 861,
+          "grosssizeadjusted": 861,
+          "livingsize": 861,
+          "sizeInd": "LIVING SQFT",
+          "universalsize": 861
+        },
+        "rooms": { "bathstotal": 1, "beds": 2, "roomsTotal": 5 },
+        "interior": {},
+        "parking": {},
+        "summary": {
+          "levels": 1,
+          "storyDesc": "MISCELLANEOUS",
+          "unitsCount": "1"
+        }
+      },
+      "avm": {
+        "eventDate": "2021-4-9",
+        "amount": {
+          "scr": 87,
+          "value": 725600,
+          "high": 816300,
+          "low": 637700,
+          "fsd": 13
+        }
+      },
+      "sale": {
+        "buyerName": "BORDEY ROQUE Y,",
+        "sellerName": "BORDEY REYMOND Y",
+        "salesearchdate": "1991-1-24",
+        "mortgage": {
+          "FirstConcurrent": { "amount": 95000 },
+          "SecondConcurrent": {}
+        },
+        "amount": {
+          "saleamt": 120000,
+          "salecode": "SALE PRICE (FULL) Full sales price as per documents",
+          "salerecdate": "1991-1-24",
+          "saledisclosuretype": 0,
+          "saledoctype": "DEED",
+          "saledocnum": "0000104541",
+          "saletranstype": "Resale"
+        },
+        "calculation": { "priceperbed": 60000, "pricepersizeunit": 139.37 }
+      },
+      "assessment": { "assessed": { "assdttlvalue": 197878 }, "market": {} },
+      "owner": {
+        "corporateindicator": "N",
+        "owner1": { "lastname": "BORDEY TRUST " },
+        "owner2": {},
+        "owner3": {},
+        "owner4": {},
+        "absenteeownerstatus": "O",
+        "mailingaddressoneline": "2314 ARTHUR ST, LOS ANGELES, CA 90065-2710"
+      },
+      "vintage": { "lastModified": "2021-3-29", "pubDate": "2021-3-29" }
+    }
+  ]
+}
