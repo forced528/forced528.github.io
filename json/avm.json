@@ -1,0 +1,69 @@
+[
+    {
+      "avm": {
+        "eventDate": "2021-4-9",
+        "amount": {
+          "scr": 87,
+          "value": 725600,
+          "high": 816300,
+          "low": 637700,
+          "fsd": 13
+        }
+      },
+      "area": { "countrysecsubd": "Los Angeles" },
+      "address": {
+        "country": "US",
+        "countrySubd": "CA",
+        "line1": "2314 ARTHUR ST",
+        "line2": "LOS ANGELES, CA 90065",
+        "locality": "LOS ANGELES",
+        "matchCode": "ExaStr",
+        "oneLine": "2314 ARTHUR ST, LOS ANGELES, CA 90065",
+        "postal1": "90065",
+        "postal2": "2710",
+        "postal3": "C025"
+      },
+      "summary": {
+        "absenteeInd": "OWNER OCCUPIED",
+        "propclass": "Single Family Residence / Townhouse",
+        "propsubtype": "Residential",
+        "proptype": "SFR",
+        "yearbuilt": 1938,
+        "propLandUse": "SFR",
+        "propIndicator": "10",
+        "legal1": "TRACT # 3579 LOT COM S 40 10'54\" E 65.09 FT FROM MOST N COR OF LOT 138 TH S 40 10'54\" E 47.34 FT TH S 17 29' W 60.21 FT TH NW TO A PT S 17 29' W 86.54 FT FROM BEG TH N 17 29' E TO BEG PART OF LOT 138"
+      },
+      "sale": {
+        "buyerName": "BORDEY ROQUE Y,",
+        "sellerName": "BORDEY REYMOND Y",
+        "salesearchdate": "1991-1-24",
+        "mortgage": {
+          "FirstConcurrent": { "amount": 95000 },
+          "SecondConcurrent": {}
+        },
+        "amount": {
+          "saleamt": 120000,
+          "salecode": "SALE PRICE (FULL) Full sales price as per documents",
+          "salerecdate": "1991-1-24",
+          "saledisclosuretype": 0,
+          "saledoctype": "DEED",
+          "saledocnum": "0000104541",
+          "saletranstype": "Resale"
+        },
+        "calculation": { "priceperbed": 60000, "pricepersizeunit": 139.37 }
+      },
+      "assessment": { "assessed": { "assdttlvalue": 197878 }, "market": {} },
+      "owner": {
+        "corporateindicator": "N",
+        "owner1": { "lastname": "BORDEY TRUST " },
+        "owner2": {},
+        "owner3": {},
+        "owner4": {},
+        "absenteeownerstatus": "O",
+        "mailingaddressoneline": "2314 ARTHUR ST, LOS ANGELES, CA 90065-2710"
+      },
+      "vintage": { "lastModified": "2021-3-29", "pubDate": "2021-3-29" }
+    }
+  ]
+}
+]
