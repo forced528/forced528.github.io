@@ -1,42 +1,38 @@
-[
-  {
-      "summary": {
-        "absenteeInd": "OWNER OCCUPIED",
-        "propclass": "Single Family Residence / Townhouse",
-        "propsubtype": "Residential",
-        "proptype": "SFR",
-        "yearbuilt": 1997,
-        "propLandUse": "SFR",
-        "propIndicator": "10",
-        "legal1": "TR=49099 LOT 272"
-      },
-      "avm": {
-        "eventDate": "2021-4-9",
-        "amount": {
-          "scr": 84,
-          "value": 891300,
-          "high": 1032000,
-          "low": 788700,
-          "valueRange": 140700
-        },
-        "AVMChange": {
-          "avmlastmonthvalue": 895700,
-          "avmamountchange": -4400,
-          "avmpercentchange": 0
-        },
-        "condition": {
-          "avmpoorlow": 749265,
-          "avmpoorhigh": 980400,
-          "avmpoorscore": 79,
-          "avmgoodlow": 788700,
-          "avmgoodhigh": 1032000,
-          "avmgoodscore": 84,
-          "avmexcellentlow": 808417.5,
-          "avmexcellenthigh": 1057800,
-          "avmexcellentscore": 86.5
-        }
-      }
-    }
-  ]
-}
-]
+[{
+	"summary": {
+		"absenteeInd": "OWNER OCCUPIED",
+		"propclass": "Single Family Residence / Townhouse",
+		"propsubtype": "Residential",
+		"proptype": "SFR",
+		"yearbuilt": 1997,
+		"propLandUse": "SFR",
+		"propIndicator": "10",
+		"legal1": "TR=49099 LOT 272"
+	},
+	"avm": {
+		"eventDate": "2021-4-9",
+		"amount": {
+			"scr": 84,
+			"value": 891300,
+			"high": 1032000,
+			"low": 788700,
+			"valueRange": 140700
+		},
+		"AVMChange": {
+			"avmlastmonthvalue": 895700,
+			"avmamountchange": -4400,
+			"avmpercentchange": 0
+		},
+		"condition": {
+			"avmpoorlow": 749265,
+			"avmpoorhigh": 980400,
+			"avmpoorscore": 79,
+			"avmgoodlow": 788700,
+			"avmgoodhigh": 1032000,
+			"avmgoodscore": 84,
+			"avmexcellentlow": 808417.5,
+			"avmexcellenthigh": 1057800,
+			"avmexcellentscore": 86.5
+		}
+	}
+}]
